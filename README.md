@@ -7,5 +7,7 @@ The communication is text-based and uses standard input/output in the terminal.
 Requirements
 
 1.Python 3.x
+
 2.Basic knowledge of Python and networking concepts (TCP sockets).
+
 3.Terminal/Command Line interface.
